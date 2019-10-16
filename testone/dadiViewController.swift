@@ -23,7 +23,9 @@ class dadiViewController: UIViewController, UIPickerViewDataSource, UIPickerView
         somma.text = "Ti è uscito: \(numero1 + numero2)"
     }
     
-    /***/
+    /**/
+    
+    caio
     
     override func viewDidLoad() {
         super.viewDidLoad()
